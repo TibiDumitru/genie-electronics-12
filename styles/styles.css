@@ -647,3 +647,18 @@ body.columns main > .section:empty {
 main[hidden] {
   display: none !important;
 }
+
+/* === Storefront Genie theme: tech-electronics (auto-generated; do not edit) === */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap');
+:root, .dropin-design {
+  --type-base-font-family: 'Inter', system-ui, sans-serif;
+  --color-brand-300: #5b8def;
+  --color-brand-500: #1a56db;
+  --color-brand-600: #1544b0;
+  --color-brand-700: #103488;
+  --color-button-hover: var(--color-brand-600);
+  --shape-border-radius-1: 6px;
+  --shape-border-radius-2: 12px;
+  --shape-border-radius-3: 28px;
+}
+/* === end Storefront Genie theme === */
